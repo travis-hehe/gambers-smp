@@ -4,7 +4,7 @@ The Gambers SMP is a quirky SMP created and maintained by a group of my friends 
 
 #### Articles
 
-1. [Characters](url)
+1. [Characters](https://travis-hehe.github.io/gambers-smp/characters)
 2. [Timelines](url)
 3. [Maps](url)
 4. [Objects](url)
