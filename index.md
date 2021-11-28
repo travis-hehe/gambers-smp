@@ -1,8 +1,8 @@
-#### Welcome to the Gambers SMP website.
+## Welcome to the Gambers SMP website.
 
 The Gambers SMP is a quirky SMP created and maintained by a group of my friends and I. My name is Travis, by the way. This website was made to catalogue our timelines, characters, events, and a ton of other things regarding the gambers. I'll be updating this website as we create more and more lore.
 
-## Articles
+#### Articles
 
 1. [Characters](url)
 2. [Timelines](url)
