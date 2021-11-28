@@ -1,30 +1,16 @@
-## Welcome to GitHub Pages
+#### Welcome to the Gambers SMP website.
 
-You can use the [editor on GitHub](https://github.com/travis-hehe/gambers-smp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The Gambers SMP is a quirky SMP created and maintained by a group of my friends and I. My name is Travis, by the way. This website was made to catalogue our timelines, characters, events, and a ton of other things regarding the gambers. I'll be updating this website as we create more and more lore.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Articles
 
-### Markdown
+1. [Characters](url)
+2. [Timelines](url)
+3. [Maps](url)
+4. [Objects](url)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
